@@ -1,7 +1,7 @@
 name: jjptestsite
 favicon: null
-layout_spectrum: 0.15784710715524852
-typography_spectrum: 0.056398109532892704
+layout_spectrum: 0.25289
+typography_spectrum: 0.46598
 cta:
   domain: null
   bucket: null
